@@ -43,7 +43,10 @@ social_media:
   twitter: salevajo
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://spiegel.de
+  website: https://eic.network
+  website: https://amnesty.de
+  website: https://fk-internet.de
   xing: Stephan_Heffner
   # youtube: your_username
 
@@ -68,9 +71,9 @@ topics:
     web_url: https://github.com/topics/ios
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png
 
-  - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+  - name: Homebrew
+    web_url: https://github.com/topics/homebrew
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
@@ -84,9 +87,9 @@ topics:
     web_url: https://github.com/topics/jenkins
     image_url: https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png
 
-  - name: Homebrew
-    web_url: https://github.com/topics/homebrew
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
   - name: Terminal
     web_url: https://github.com/topics/terminal
