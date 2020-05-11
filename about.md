@@ -3,8 +3,6 @@ layout: default
 title: About me
 ---
 
-# About me
-
 I'm working since mid 90's as a software developer, consultant and architect.
 Starting my career at the Institute of Mammalian Genetics near Munich being part
 of the Human Genome Project, I had the opportunity to create an animal
