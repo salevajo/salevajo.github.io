@@ -46,6 +46,7 @@ social_media:
   website: https://spiegel.de
   xing: Stephan_Heffner
   # youtube: your_username
+  pgp: 1D31636AFBEAB5FAE452EE89A4B31910E40308BF
 
 topics:
   - name: Swift
